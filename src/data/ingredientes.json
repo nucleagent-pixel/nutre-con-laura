@@ -1,0 +1,487 @@
+[
+{
+"id": "huevo",
+"nombre": "Huevos",
+"grupo": "Proteínas"
+},
+{
+"id": "pollo",
+"nombre": "Pollo",
+"grupo": "Proteínas"
+},
+{
+"id": "pavo",
+"nombre": "Pavo",
+"grupo": "Proteínas"
+},
+{
+"id": "res",
+"nombre": "Carne de res",
+"grupo": "Proteínas"
+},
+{
+"id": "cerdo",
+"nombre": "Cerdo",
+"grupo": "Proteínas"
+},
+{
+"id": "pescado",
+"nombre": "Pescado blanco",
+"grupo": "Proteínas"
+},
+{
+"id": "salmon",
+"nombre": "Salmón",
+"grupo": "Proteínas"
+},
+{
+"id": "atun",
+"nombre": "Atún",
+"grupo": "Proteínas"
+},
+{
+"id": "mariscos",
+"nombre": "Camarón y mariscos",
+"grupo": "Proteínas"
+},
+{
+"id": "pato",
+"nombre": "Pato",
+"grupo": "Proteínas"
+},
+{
+"id": "tofu",
+"nombre": "Tofu",
+"grupo": "Proteínas"
+},
+{
+"id": "proteina-polvo",
+"nombre": "Proteína en polvo",
+"grupo": "Proteínas"
+},
+{
+"id": "leche",
+"nombre": "Leche",
+"grupo": "Lácteos"
+},
+{
+"id": "yogur",
+"nombre": "Yogur natural",
+"grupo": "Lácteos"
+},
+{
+"id": "yogur-griego",
+"nombre": "Yogur griego",
+"grupo": "Lácteos"
+},
+{
+"id": "queso-fresco",
+"nombre": "Queso fresco o blanco",
+"grupo": "Lácteos"
+},
+{
+"id": "queso-cottage",
+"nombre": "Queso cottage o ricotta",
+"grupo": "Lácteos"
+},
+{
+"id": "queso-maduro",
+"nombre": "Queso parmesano o maduro",
+"grupo": "Lácteos"
+},
+{
+"id": "queso-crema",
+"nombre": "Queso crema",
+"grupo": "Lácteos"
+},
+{
+"id": "mantequilla",
+"nombre": "Mantequilla",
+"grupo": "Lácteos"
+},
+{
+"id": "crema",
+"nombre": "Crema de leche",
+"grupo": "Lácteos"
+},
+{
+"id": "leche-vegetal",
+"nombre": "Leche de almendras o avena",
+"grupo": "Bebidas vegetales"
+},
+{
+"id": "leche-coco",
+"nombre": "Leche de coco",
+"grupo": "Bebidas vegetales"
+},
+{
+"id": "agua-coco",
+"nombre": "Agua de coco",
+"grupo": "Bebidas vegetales"
+},
+{
+"id": "platano",
+"nombre": "Banano / plátano / cambur",
+"grupo": "Frutas"
+},
+{
+"id": "fresa",
+"nombre": "Fresas",
+"grupo": "Frutas"
+},
+{
+"id": "frutos-rojos",
+"nombre": "Frutos rojos",
+"grupo": "Frutas"
+},
+{
+"id": "mango",
+"nombre": "Mango",
+"grupo": "Frutas"
+},
+{
+"id": "pina",
+"nombre": "Piña",
+"grupo": "Frutas"
+},
+{
+"id": "manzana",
+"nombre": "Manzana",
+"grupo": "Frutas"
+},
+{
+"id": "pera",
+"nombre": "Pera",
+"grupo": "Frutas"
+},
+{
+"id": "kiwi",
+"nombre": "Kiwi",
+"grupo": "Frutas"
+},
+{
+"id": "naranja",
+"nombre": "Naranja",
+"grupo": "Frutas"
+},
+{
+"id": "limon",
+"nombre": "Limón / lima",
+"grupo": "Frutas"
+},
+{
+"id": "aguacate",
+"nombre": "Aguacate / palta",
+"grupo": "Frutas"
+},
+{
+"id": "papaya",
+"nombre": "Papaya / lechosa",
+"grupo": "Frutas"
+},
+{
+"id": "durazno",
+"nombre": "Durazno",
+"grupo": "Frutas"
+},
+{
+"id": "acai",
+"nombre": "Açaí",
+"grupo": "Frutas"
+},
+{
+"id": "coco",
+"nombre": "Coco rallado",
+"grupo": "Frutas"
+},
+{
+"id": "pasas",
+"nombre": "Pasas o fruta seca",
+"grupo": "Frutas"
+},
+{
+"id": "granada",
+"nombre": "Granada",
+"grupo": "Frutas"
+},
+{
+"id": "espinaca",
+"nombre": "Espinaca",
+"grupo": "Verduras"
+},
+{
+"id": "kale",
+"nombre": "Kale / col rizada",
+"grupo": "Verduras"
+},
+{
+"id": "lechuga",
+"nombre": "Lechuga o mix de hojas",
+"grupo": "Verduras"
+},
+{
+"id": "tomate",
+"nombre": "Tomate / jitomate",
+"grupo": "Verduras"
+},
+{
+"id": "cebolla",
+"nombre": "Cebolla",
+"grupo": "Verduras"
+},
+{
+"id": "ajo",
+"nombre": "Ajo",
+"grupo": "Verduras"
+},
+{
+"id": "pimenton",
+"nombre": "Pimentón / pimiento",
+"grupo": "Verduras"
+},
+{
+"id": "zanahoria",
+"nombre": "Zanahoria",
+"grupo": "Verduras"
+},
+{
+"id": "brocoli",
+"nombre": "Brócoli",
+"grupo": "Verduras"
+},
+{
+"id": "coliflor",
+"nombre": "Coliflor",
+"grupo": "Verduras"
+},
+{
+"id": "calabacin",
+"nombre": "Calabacín / zucchini",
+"grupo": "Verduras"
+},
+{
+"id": "calabaza",
+"nombre": "Calabaza / auyama",
+"grupo": "Verduras"
+},
+{
+"id": "pepino",
+"nombre": "Pepino",
+"grupo": "Verduras"
+},
+{
+"id": "champinon",
+"nombre": "Champiñones",
+"grupo": "Verduras"
+},
+{
+"id": "papa",
+"nombre": "Papa",
+"grupo": "Verduras"
+},
+{
+"id": "camote",
+"nombre": "Batata / camote",
+"grupo": "Verduras"
+},
+{
+"id": "apio",
+"nombre": "Apio",
+"grupo": "Verduras"
+},
+{
+"id": "esparrago",
+"nombre": "Espárragos",
+"grupo": "Verduras"
+},
+{
+"id": "berenjena",
+"nombre": "Berenjena",
+"grupo": "Verduras"
+},
+{
+"id": "arvejas",
+"nombre": "Arvejas / chícharos",
+"grupo": "Verduras"
+},
+{
+"id": "maiz",
+"nombre": "Maíz / choclo",
+"grupo": "Verduras"
+},
+{
+"id": "chile",
+"nombre": "Chile / jalapeño",
+"grupo": "Verduras"
+},
+{
+"id": "cilantro",
+"nombre": "Cilantro",
+"grupo": "Verduras"
+},
+{
+"id": "perejil",
+"nombre": "Perejil",
+"grupo": "Verduras"
+},
+{
+"id": "hierbas",
+"nombre": "Hierbas frescas (albahaca, menta)",
+"grupo": "Verduras"
+},
+{
+"id": "jengibre",
+"nombre": "Jengibre",
+"grupo": "Verduras"
+},
+{
+"id": "repollo",
+"nombre": "Repollo / col",
+"grupo": "Verduras"
+},
+{
+"id": "remolacha",
+"nombre": "Remolacha",
+"grupo": "Verduras"
+},
+{
+"id": "otras-verduras",
+"nombre": "Otras verduras (hinojo, rábano, nabo)",
+"grupo": "Verduras"
+},
+{
+"id": "avena",
+"nombre": "Avena",
+"grupo": "Granos y cereales"
+},
+{
+"id": "arroz",
+"nombre": "Arroz",
+"grupo": "Granos y cereales"
+},
+{
+"id": "quinoa",
+"nombre": "Quinoa",
+"grupo": "Granos y cereales"
+},
+{
+"id": "pan-integral",
+"nombre": "Pan integral",
+"grupo": "Granos y cereales"
+},
+{
+"id": "tortilla",
+"nombre": "Tortillas",
+"grupo": "Granos y cereales"
+},
+{
+"id": "pasta",
+"nombre": "Pasta / fideos",
+"grupo": "Granos y cereales"
+},
+{
+"id": "harina",
+"nombre": "Harina integral o de arroz",
+"grupo": "Granos y cereales"
+},
+{
+"id": "granola",
+"nombre": "Granola",
+"grupo": "Granos y cereales"
+},
+{
+"id": "amaranto",
+"nombre": "Amaranto",
+"grupo": "Granos y cereales"
+},
+{
+"id": "frijol",
+"nombre": "Frijoles / caraotas / porotos",
+"grupo": "Legumbres"
+},
+{
+"id": "lenteja",
+"nombre": "Lentejas",
+"grupo": "Legumbres"
+},
+{
+"id": "garbanzo",
+"nombre": "Garbanzos",
+"grupo": "Legumbres"
+},
+{
+"id": "chia",
+"nombre": "Semillas de chía",
+"grupo": "Frutos secos y semillas"
+},
+{
+"id": "linaza",
+"nombre": "Linaza",
+"grupo": "Frutos secos y semillas"
+},
+{
+"id": "almendras",
+"nombre": "Almendras",
+"grupo": "Frutos secos y semillas"
+},
+{
+"id": "nueces",
+"nombre": "Nueces o pistachos",
+"grupo": "Frutos secos y semillas"
+},
+{
+"id": "mani",
+"nombre": "Maní / mantequilla de maní",
+"grupo": "Frutos secos y semillas"
+},
+{
+"id": "semillas",
+"nombre": "Semillas (girasol, calabaza, sésamo)",
+"grupo": "Frutos secos y semillas"
+},
+{
+"id": "miel",
+"nombre": "Miel o endulzante",
+"grupo": "Despensa"
+},
+{
+"id": "cacao",
+"nombre": "Cacao en polvo",
+"grupo": "Despensa"
+},
+{
+"id": "caldo",
+"nombre": "Caldo de pollo o verduras",
+"grupo": "Despensa"
+},
+{
+"id": "tomate-lata",
+"nombre": "Tomate en lata o salsa",
+"grupo": "Despensa"
+},
+{
+"id": "salsa-soya",
+"nombre": "Salsa de soya",
+"grupo": "Despensa"
+},
+{
+"id": "mostaza",
+"nombre": "Mostaza",
+"grupo": "Despensa"
+},
+{
+"id": "vinagre",
+"nombre": "Vinagre",
+"grupo": "Despensa"
+},
+{
+"id": "superalimentos",
+"nombre": "Espirulina, matcha o moringa",
+"grupo": "Despensa"
+},
+{
+"id": "alcaparras",
+"nombre": "Aceitunas o alcaparras",
+"grupo": "Despensa"
+}
+]
